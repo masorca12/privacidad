@@ -1,0 +1,63 @@
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones de Uso de HydroTitán</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; margin: 2em; }
+        h1, h2 { color: #333; }
+        h1 { text-align: center; }
+        .container { max-width: 800px; margin: auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+        .meta-info { text-align: center; color: #777; margin-bottom: 2em; }
+        a { color: #007bff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TÉRMINOS Y CONDICIONES DE USO DE HYDROTITÁN</h1>
+        <p class="meta-info"><strong>Última actualización:</strong> 21 de octubre de 2025</p>
+
+        <p>Bienvenido a HydroTitán, la plataforma digital diseñada para la administración, control y logística de negocios de purificación y distribución de agua. Estos Términos y Condiciones ("Términos") rigen el uso de la aplicación móvil y plataforma web de HydroTitán (en adelante, el "Servicio"), operada por <strong>fedecorp</strong>.</p>
+        <p>Al registrarse o utilizar nuestro Servicio, usted (en adelante, el "Usuario") acepta haber leído, entendido y estar de acuerdo con los presentes Términos, así como con nuestro Aviso de Privacidad. Si no está de acuerdo con estos Términos, no deberá utilizar el Servicio.</p>
+
+        <h2>1. DESCRIPCIÓN DEL SERVICIO</h2>
+        <p>HydroTitán es una herramienta de software como servicio (SaaS) que permite al Usuario llevar un control detallado sobre la entrada y salida de garrafones, gestión de inventario, seguimiento de rutas, administración de clientes y generación de reportes relacionados con la operación de su negocio. El Servicio está alojado en la nube y es accesible a través de internet.</p>
+
+        <h2>2. CUENTAS DE USUARIO</h2>
+        <p>Para acceder al Servicio, el Usuario debe crear una cuenta proporcionando información veraz, actual y completa. El Usuario es el único responsable de mantener la confidencialidad de su contraseña y de todas las actividades que ocurran en su cuenta. La Empresa no será responsable por pérdidas o daños derivados del incumplimiento de esta obligación por parte del Usuario. El Usuario se compromete a notificar inmediatamente a la Empresa sobre cualquier uso no autorizado de su cuenta.</p>
+
+        <h2>3. USO ACEPTABLE DEL SERVICIO</h2>
+        <p>El Usuario se compromete a utilizar el Servicio de manera lícita y de acuerdo con los presentes Términos. Queda estrictamente prohibido:</p>
+        <ul>
+            <li>Utilizar el Servicio para fines ilegales o no autorizados.</li>
+            <li>Intentar acceder sin autorización a los sistemas o redes de la Empresa.</li>
+            <li>Cargar o transmitir virus, malware o cualquier otro código de naturaleza destructiva.</li>
+            <li>Revender, licenciar o explotar comercialmente cualquier parte del Servicio sin el consentimiento explícito y por escrito de la Empresa.</li>
+        </ul>
+
+        <h2>4. PROPIEDAD INTELECTUAL</h2>
+        <p>Todo el contenido del Servicio, incluyendo pero no limitado a, el software, código fuente, logotipos, textos, gráficos, imágenes y la marca "HydroTitán", son propiedad exclusiva de la Empresa y están protegidos por las leyes de propiedad industrial e intelectual aplicables en los Estados Unidos Mexicanos. No se concede al Usuario ninguna licencia o derecho sobre dicha propiedad intelectual, más allá del derecho limitado a utilizar el Servicio conforme a estos Términos.</p>
+
+        <h2>5. INFORMACIÓN Y DATOS DEL USUARIO</h2>
+        <p>El Usuario retiene la propiedad de toda la información y datos que ingrese en el Servicio ("Datos del Usuario"). Sin embargo, el Usuario otorga a la Empresa una licencia mundial, no exclusiva y libre de regalías para usar, reproducir, modificar y almacenar dichos datos con el único propósito de operar y mejorar el Servicio. Para más detalles, consulte nuestro Aviso de Privacidad.</p>
+
+        <h2>6. LIMITACIÓN DE RESPONSABILIDAD</h2>
+        <p>El Usuario acepta y reconoce que utiliza el Servicio bajo su propio riesgo y responsabilidad. El Servicio se proporciona "tal cual" y "según disponibilidad". En particular, y en la máxima medida permitida por la ley, el Usuario entiende y acepta que la Empresa y sus afiliados, directores o empleados no serán responsables por:</p>
+        <ul>
+            <li><strong>Pérdida de Información:</strong> La Empresa implementa medidas de seguridad y respaldos periódicos, pero no garantiza que no ocurrirán pérdidas de datos. El Usuario es el único responsable de mantener copias de seguridad independientes. La Empresa no se hace responsable por cualquier pérdida de datos, pérdida de ganancias o cualquier daño resultante de fallas técnicas o cualquier otra eventualidad.</li>
+            <li><strong>Interrupciones del Servicio:</strong> El Servicio puede estar sujeto a interrupciones por mantenimiento, actualizaciones o fallas de red. La Empresa no garantiza un servicio ininterrumpido o libre de errores.</li>
+            <li><strong>Decisiones de Negocio:</strong> La información y reportes generados por HydroTitán son herramientas de apoyo. La Empresa no se responsabiliza por las decisiones de negocio que el Usuario tome basándose en dicha información.</li>
+        </ul>
+
+        <h2>7. MODIFICACIONES AL SERVICIO Y TÉRMINOS</h2>
+        <p>La Empresa se reserva el derecho de modificar o descontinuar el Servicio en cualquier momento. Asimismo, la Empresa podrá modificar estos Términos. La versión más actualizada estará siempre disponible en nuestra plataforma. El uso continuado del Servicio después de cualquier modificación constituirá la aceptación de los nuevos Términos.</p>
+
+        <h2>8. LEGISLACIÓN APLICABLE Y JURISDICCIÓN</h2>
+        <p>Estos Términos se regirán por las leyes federales de los Estados Unidos Mexicanos y las leyes del Estado de Puebla. Para cualquier controversia, el Usuario y la Empresa se someten a la jurisdicción de los tribunales de la ciudad de Puebla, Puebla.</p>
+
+        <h2>9. CONTACTO</h2>
+        <p>Para cualquier duda sobre estos Términos y Condiciones, puede contactarnos a través de: <a href="mailto:fedecorp@privado.com">fedecorp@privado.com</a>.</p>
+    </div>
+</body>
+</html>
